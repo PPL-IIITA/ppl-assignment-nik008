@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1488134977 source:c:\users\nikunj\desktop\my programs\vday\boy.cpp
+	<string>
+
+1488135053 source:c:\users\nikunj\desktop\my programs\vday\girl.cpp
+	<string>
+
+1488019966 source:c:\users\nikunj\desktop\my programs\vday\gift.cpp
+	<string>
+
+1488134310 source:c:\users\nikunj\desktop\my programs\vday\main.cpp
+	<iostream>
+	<string>
+	"gift.cpp"
+	"girl.cpp"
+	"boy.cpp"
+	<algorithm>
+	<fstream>
+	<vector>
+
+1488019966 c:\users\nikunj\desktop\my programs\vday\gift.cpp
+	<string>
+
+1488132578 c:\users\nikunj\desktop\my programs\vday\girl.cpp
+	<string>
+
+1488132895 c:\users\nikunj\desktop\my programs\vday\boy.cpp
+	<string>
+
+1488115823 source:c:\users\nikunj\desktop\my programs\vday\genrator.cpp
+	<cstdlib>
+	<fstream>
+	<ctime>
+
+1488134127 source:c:\users\nikunj\desktop\my programs\vday\find_bf.cpp
+	<iostream>
+	<string>
+	"gift.cpp"
+	"girl.cpp"
+	"boy.cpp"
+	<algorithm>
+	<fstream>
+	<vector>
+
+1488137267 source:c:\users\nikunj\desktop\my programs\vday\essential_gift.cpp
+	<string>
+
